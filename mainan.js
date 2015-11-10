@@ -6,7 +6,7 @@ var user = new Parse.User();
 function checkLogin(){
   if (Parse.User.current()){
     //console.log("Log in : " + Parse.User.current().get("username"));
-    $("#sec-daftar").hide();
+    
 
     $("#current-user").html("User : " + Parse.User.current().get("username"));
   } else {
