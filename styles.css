@@ -263,3 +263,27 @@ html, body {
 .bawah {
   margin-bottom: 50px;
 }
+#kami{
+
+  position: relative;
+  height: 450px;
+  width: auto;
+  background-color: #59b4e6;
+  background-size: cover;
+}
+
+.tengah {
+  display: block;
+  margin: 0 auto;
+}
+#kami img{
+  padding-top: 50px;
+}
+#kami h5{
+  text-align: center;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  color: #fff;
+}
