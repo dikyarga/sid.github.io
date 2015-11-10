@@ -300,3 +300,15 @@ html, body {
 #blog button{
   margin-top: 300px;
 }
+/* style for card  in Event Tab. */
+.demo-card-wide.mdl-card {
+  width: 512px;
+}
+.demo-card-wide > .mdl-card__title {
+  color: #fff;
+  height: 226px;
+  background: url('images/bootcamp.jpg') center / cover;
+}
+.demo-card-wide > .mdl-card__menu {
+  color: #fff;
+}
