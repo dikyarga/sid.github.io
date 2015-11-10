@@ -8,8 +8,8 @@ Struktur File dan Folder :
    - index.html
 
 Skenario : Jika user sudah mendaftar di homepage tab daftar dan login di tab masuk dengan akun demo dengan Parse :
-username : dikyarga 
-password : dikyarga
+- username : dikyarga 
+- password : dikyarga
 
 maka sistem akan me-re-direct ke internal/index.html 
 
