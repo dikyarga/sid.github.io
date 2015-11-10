@@ -276,6 +276,10 @@ html, body {
   display: block;
   margin: 0 auto;
 }
+.jeda {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
 #kami img{
   padding-top: 50px;
 }
@@ -286,4 +290,13 @@ html, body {
   padding-top: 10px;
   padding-bottom: 20px;
   color: #fff;
+}
+#blog {
+  background-image: url("images/pod-doscom.png");
+	height: 500px;
+	padding-top: 50px;
+	margin-bottom: 0px;
+}
+#blog button{
+  margin-top: 300px;
 }
