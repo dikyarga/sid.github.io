@@ -1,6 +1,6 @@
 # Sistem Informasi Doscom - dikyarga.github.io
 
-Kami menggunakan Github Pages, jadi yang kami push di https://github.com/dikyarga/dikyarga.github.io dengan Branch : gh-pages akan langsung dapat dilihat di http://dikyarga.github.io/
+Link demo removed ):
 
 Struktur File dan Folder :
 - index.html
